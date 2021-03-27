@@ -1,19 +1,23 @@
 {
-  "name": "discordjs-bot-template",
+  "name": "kai-bot",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {
-    "ascii-table": "^0.0.9",
-    "common-tags": "^1.8.0",
-    "discord.js": "^12.5.1",
-    "got": "^11.8.1"
-  },
-  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Tomato#6966",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rexgamer945/kai-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rexgamer945/kai-bot/issues"
+  },
+  "homepage": "https://github.com/rexgamer945/kai-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "ms": "^2.1.3"
+  }
 }
